@@ -1,0 +1,16 @@
+.card{
+    color: aqua;
+}
+.caja_card{
+    
+}
+
+.section{
+display: flex;
+justify-content: center;
+}
+
+.boton{
+    border:4px solid greenyellow;
+    width: 50px;
+}
